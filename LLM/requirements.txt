@@ -1,0 +1,14 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-SocketIO
+PyPDF2
+docx2txt
+python-docx
+pandas
+numpy
+requests
+Flask-CORS
+SQLAlchemy
+cx_Oracle
+scikit-learn
